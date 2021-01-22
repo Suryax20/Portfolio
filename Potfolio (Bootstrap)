@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Bootstrap Theme Simply Me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+  .bg-1 { 
+background-color: #1abc9c;
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff;
+    color: #555555;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid bg-1 text-center">
+  <h3>Ragasree</h3>
+ <h3>I'm an Computer Sciene student</h3>
+</div>
+<div class="container-fluid bg-2 text-center">
+  <h3>About Me:</h3>
+  <li> Contact Info: 92********</li>
+  <li>Email address : skunani********@gmail.com</li>
+<h2> Personal Info: </h2>
+<ul>
+<li> Father's Name: Ramesh Babu </li>
+<li> Mother's Name: Manjula </li>
+<li> Religion: Hindu </li>
+<li> Nationality: Indian </li>
+<li> Date of Birth: 6 March 2000</li>
+</ul>
+<h2>Interests</h2>
+<ul> 
+  <li> Content Writing </li>
+  <li> Photography </li>
+</ul>
+<h2>Technical Skills : </h2>
+<ul>
+<li> Web Design with HTML5 & CSS </li>
+<li>  C </li>
+</ul>
+<p class="head">Education</p>
+<ul>
+  <li> Narayana Techno School </li>
+  <li> Sri Chaitanya Junior College </li>
+<h2> Experience : </h2>
+    <li>1 Months Internship in Cyber Security</li>    
+ <h2>Certifications :</h2>
+<ul>
+  <li> Python for everybody(Coursera)</li>
+ <li> Introduction to html(coursera)</li>
+ <h2> Known Languages : </h2
+ <ul>
+<li> English </li>
+<li> Hindi </li>
+<li> Telugu </li>
+ <h2> Extracurriculars </h2>
+ <li> Cricket </li>
+    </ul></ul></th></tr>
+</table>
+</body>
+ </html></p>
+</div>
+</body>
+</html>
